@@ -1,0 +1,22 @@
+{
+  "name": "arith",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arith.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaozecai/arith.git"
+  },
+  "keywords": [
+    "arith"
+  ],
+  "author": "shaozecai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaozecai/arith/issues"
+  },
+  "homepage": "https://github.com/shaozecai/arith#readme"
+}
