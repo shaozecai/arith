@@ -20,7 +20,7 @@ arith.sum([1.01,1.02])
 ```
 
 ## Author
-- Email - shaozecai@shaozeci.com
+- Email - shaozecai@shaozecai.com
 - Web site - https://shaozecai.com
 
 ## Version
